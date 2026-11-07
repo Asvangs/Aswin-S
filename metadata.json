@@ -1,0 +1,6 @@
+{
+  "name": "A Letter From My Heart - For My Love",
+  "description": "A heartfelt apology, the honest truth, and an eternal promise from someone who loves you more than words can say.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
